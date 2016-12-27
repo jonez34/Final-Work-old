@@ -1,0 +1,38 @@
+body { background-color:#ffffcc;
+     margin-bottom:auto;
+	 margin-left:auto;
+	 margin-right:auto;
+	 margin-top:auto;
+}
+#nav{
+width:1000px;
+font-size:3em;
+font-family: Arial, Helvetical, sans-serif;
+
+}
+#nav img{
+float:left;
+clear:both;
+}
+#nav a:link{
+text-decoration: none;
+color: #000000;
+clear:both;
+}
+#nav a:visited{
+text-decoration: none;
+color: #000000;
+
+}
+#nav a:hover{
+text-decoration: none;
+color: #ff6657;
+
+}
+#body {
+width:1000px;
+font-size:1.2em;
+font-family: Arial, Helvetical, sans-serif;
+
+
+}
