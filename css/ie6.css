@@ -1,0 +1,8 @@
+#header .container{
+	height:112px;
+}
+#header .container span#slogan{
+	position:absolute;
+	left:0;
+	top:60px;
+}
